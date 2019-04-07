@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DonateB</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DONATE</string>
+    <string name="nav_header_subtitle">Blood is life!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="blood_groups">
+        <item>None</item>
+        <item>O positive</item>
+        <item>O negative</item>
+        <item>A positive</item>
+        <item>A negative</item>
+        <item>B positive</item>
+        <item>B negative</item>
+        <item>AB positive</item>
+        <item>AB negative</item>
+    </array>
+</resources>

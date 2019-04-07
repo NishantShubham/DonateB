@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "255395295786",
+    "firebase_url": "https://donatebtph.firebaseio.com",
+    "project_id": "donatebtph",
+    "storage_bucket": "donatebtph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255395295786:android:51d2fa5aea9df207",
+        "android_client_info": {
+          "package_name": "com.tphkiit.thisis.donateb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255395295786-g9gj5t7lmtqlf6i5gt4l57mjikv0se7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdz3siffNIYQKXqEO3A6XD_hbNTbGmQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
